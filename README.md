@@ -1,1 +1,2 @@
-# opensim.webrtc
+# OpenSimulator.org WebRTC 
+Informationen und Tests
